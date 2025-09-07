@@ -46,7 +46,7 @@ Technologies used in the project:
 *   javascript
 *   Google Books API
 *   OpenLibrary Covers API
-*   ZXing (for barcode scanning)
+*   Zxing (for barcode scanning)
 
 <h2>🛡️ License:</h2>
 
