@@ -53,5 +53,7 @@ Technologies used in the project:
 This project is licensed under the GNU Affero General Public License v3.0
 
 <h2>💖Like my work?</h2>
+If you find this project helpful, please consider leaving a ⭐ star on this repository!
 
+You can also share it with others or contribute by submitting issues and pull requests.
 Leave a Star at this Repo
