@@ -23,6 +23,7 @@ Here're some of the project's best features:
 1.  Download the Repo
 
 <p>2. Install the Requirements </p>
+
 ```
 2 pip install -r requirements.txt
 ```
