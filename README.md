@@ -2,13 +2,9 @@
 
 <p align="center"><img src="https://socialify.git.ci/its-tujo/JBooks/image?custom_language=Python&amp;font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-<h2>Project Screenshots:</h2>
+<h2>Project Screenshot:</h2>
 
-<img src="https://i.ibb.co/hRfKVwS8/jbooks-1.png" alt="project-screenshot" width="400" height="400/">
-
-<img src="https://i.ibb.co/Q7bTzLm3/Jbooks-2.png" alt="project-screenshot" width="400" height="400/">
-
-<img src="https://i.ibb.co/5WF2vNXr/jbooks-3.png https://i.ibb.co/Q7bTzLm3/Jbooks-2.png https://i.ibb.co/hRfKVwS8/jbooks-1.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/its-tujo/JBooks/blob/730410ccd292baa75af3617de4d28b11d0c29de6/screenshots/jbooks-1.png" alt="project-screenshot" width="auto" height="auto/">
 
   
   
@@ -23,22 +19,18 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Download the Repo</p>
 
-```
-1
-```
+1.  Download the Repo
 
-<p>2. Install the Requirements (pip install -r requirements.txt)</p>
-
+<p>2. Install the Requirements </p>
 ```
-2
+2 pip install -r requirements.txt
 ```
 
-<p>3. Run the app.py (python3 app.py)</p>
+<p>3. Run the app.py</p>
 
 ```
-3
+3 python3 app.py
 ```
 
   
