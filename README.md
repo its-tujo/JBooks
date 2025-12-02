@@ -17,25 +17,46 @@ Here're some of the project's best features:
 *   Delete Books
 *   View Books Images(if aviable)
 
-<h2>🛠️ Installation Steps:</h2>
+<h2> Installation </h2>
 
+Follow the steps below to install and run JBooks:
 
-1.  Download the Repo
-
-<p>2. Install the Requirements </p>
-
-```
-2 pip install -r requirements.txt
-```
-
-<p>3. Run the app.py</p>
-
-```
-3 python3 app.py
+## 1. Clone or download the repository  
+```bash
+git clone https://github.com/its-tujo/JBooks.git
+cd JBooks
 ```
 
-  
-  
+## 2. Install dependencies  
+```bash
+pip install -r requirements.txt
+```
+
+## 3. Start the application  
+```bash
+python3 app.py
+```
+
+## Optional (recommended): Use a virtual environment  
+To avoid conflicts and keep dependencies isolated, you may create and activate a virtual environment before installing the requirements. For example:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate        # On Linux / macOS
+venv\Scripts\activate           # On Windows (cmd)
+pip install -r requirements.txt
+python3 app.py
+```
+
+---
+
+## Usage  
+
+Once installed, running `python3 app.py` will start the application.  
+Depending on project details (e.g. server port, configuration), consult the repository’s documentation or code comments for further setup.  
+
+
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
