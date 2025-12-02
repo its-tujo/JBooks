@@ -53,7 +53,7 @@ python3 app.py
 ## Usage  
 
 Once installed, running `python3 app.py` will start the application.  
-Depending on project details (e.g. server port, configuration), consult the repository’s documentation or code comments for further setup.  
+
 
 
 
